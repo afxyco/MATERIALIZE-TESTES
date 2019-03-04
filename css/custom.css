@@ -1,0 +1,11 @@
+/* CSS - Estudos Materialize*/
+
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 90%;
+  }
+}
+
+.sidenav { background:#666;}
+
+.sidenav li>a { color:#fff;}
